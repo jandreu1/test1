@@ -1,2 +1,2 @@
 <php echo phpinfo(); ?>
-status
+statusprueba
